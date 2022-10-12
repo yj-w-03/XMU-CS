@@ -1,2 +1,2 @@
 # XMU-CS
-All the Learning materials in xmu cs.
+All the learning materials in freshman year.
